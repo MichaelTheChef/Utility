@@ -1,0 +1,15 @@
+name: Utility
+version: '${project.version}'
+main: me.mio.utility.Utility
+api-version: 1.17
+commands:
+  fly:
+    description: Fly Command
+  vanish:
+    description: Vanish Command
+  gamemode:
+    description: Gamemode Command
+  report:
+    description: Report Command
+  reports:
+    description: Reports Command
